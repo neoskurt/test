@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.2939c5d6.css",
-    "main.js": "/test/static/js/main.efe96387.js",
+    "main.css": "/test/static/css/main.e108f36c.css",
+    "main.js": "/test/static/js/main.4f40185a.js",
     "static/media/video.mp4": "/test/static/media/video.38a3ed896495b8dffc26.mp4",
+    "static/media/fond-mariage.png": "/test/static/media/fond-mariage.7eb8d065c5e336ca581c.png",
     "static/media/arnaud.jpeg": "/test/static/media/arnaud.e77dfa9a6acc8f797120.jpeg",
     "static/media/anthony.jpeg": "/test/static/media/anthony.920baa584968159ab4fd.jpeg",
     "static/media/duo.jpeg": "/test/static/media/duo.164da23a5709846be4a9.jpeg",
-    "static/media/fond-mariage.jpg": "/test/static/media/fond-mariage.ec1e46268499f5eccce8.jpg",
+    "static/media/slick.svg": "/test/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/test/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/test/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/test/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/test/index.html",
-    "main.2939c5d6.css.map": "/test/static/css/main.2939c5d6.css.map",
-    "main.efe96387.js.map": "/test/static/js/main.efe96387.js.map"
+    "main.e108f36c.css.map": "/test/static/css/main.e108f36c.css.map",
+    "main.4f40185a.js.map": "/test/static/js/main.4f40185a.js.map"
   },
   "entrypoints": [
-    "static/css/main.2939c5d6.css",
-    "static/js/main.efe96387.js"
+    "static/css/main.e108f36c.css",
+    "static/js/main.4f40185a.js"
   ]
 }
